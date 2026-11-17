@@ -1,6 +1,11 @@
 # 📚 StudyMate Query Classifier
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://studymate-classifier.streamlit.app)
+
 An NLP & Machine Learning web application built with **Streamlit** and **Scikit-Learn** that classifies student prompts into **Education** or **Non-Education** categories in real time.
+
+## 🌐 Live Demo
+🔗 **[Open StudyMate Query Classifier](https://studymate-classifier.streamlit.app)** *(replace with your exact deployed Streamlit or Render URL)*
 
 ## 🚀 Features
 - **1,000-Sample Balanced Dataset:** Trained on 500 academic prompts and 500 everyday non-academic prompts.
